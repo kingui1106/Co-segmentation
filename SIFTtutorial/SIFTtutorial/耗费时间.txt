@@ -1,0 +1,7 @@
+	Preprocessing:	0.75 s
+	Pyramid:	2.66 s
+	Keypoints:	28.47 s
+	Gradient:	0.73 s
+	Orientation:	2.56 s
+	Descriptor:	31.88 s
+Total processing time 67.05 seconds.
